@@ -1,0 +1,14 @@
+C:\Users\Amin\source\repos\Programs\Programs\bin\Debug\net6.0\Programs.exe
+C:\Users\Amin\source\repos\Programs\Programs\bin\Debug\net6.0\Programs.deps.json
+C:\Users\Amin\source\repos\Programs\Programs\bin\Debug\net6.0\Programs.runtimeconfig.json
+C:\Users\Amin\source\repos\Programs\Programs\bin\Debug\net6.0\Programs.dll
+C:\Users\Amin\source\repos\Programs\Programs\bin\Debug\net6.0\Programs.pdb
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.AssemblyInfoInputs.cache
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.AssemblyInfo.cs
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.csproj.CoreCompileInputs.cache
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.dll
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\refint\Programs.dll
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.pdb
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\Programs.genruntimeconfig.cache
+C:\Users\Amin\source\repos\Programs\Programs\obj\Debug\net6.0\ref\Programs.dll
